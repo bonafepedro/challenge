@@ -16,3 +16,12 @@ GROUP BY title
 ORDER BY count(*) DESC
 LIMIT 3;
 
+
+@result
+
+     title      | count 
+----------------+-------
+ Network Peak   |     4
+ Sleuth Orient  |     4
+ Voyage Legally |     4
+
