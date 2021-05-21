@@ -28,3 +28,4 @@ separated by commas.
 
 7. What are the top 3 most common films that customers rent as their first rental?
 
+![img](https://sp.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png)
