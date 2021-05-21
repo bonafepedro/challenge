@@ -13,17 +13,17 @@ The project has the following structure
 │   │   ├── pokemon_details.py
 │   │   ├── pokemon_list.py
 |   |   └── Questions.md
-|   ├── SQL
-|   │   ├── EJ1.sql
-|   │   ├── EJ2.sql
-|   │   ├── EJ3.sql
-|   │   ├── EJ4.sql
-|   │   ├── EJ5.sql
-|   │   ├── EJ6.sql
+│   ├── SQL
+│   │   ├── EJ1.sql
+│   │   ├── EJ2.sql
+│   │   ├── EJ3.sql
+│   │   ├── EJ4.sql
+│   │   ├── EJ5.sql
+│   │   ├── EJ6.sql
 |   │   ├── EJ7.sql
 │   |   └── exercise_questions.md
-└── ├── Tableau
-        └── Tableau exercise.md
+│   └── Tableau
+│       └── Tableau exercise.md
 
 
 ```
