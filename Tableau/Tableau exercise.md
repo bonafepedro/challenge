@@ -9,6 +9,6 @@ At this point, I asked myself some questions asking about three main points: num
 
 To do this, first compare the number of deals per country per plan, per channel and then per status. That is the Dashboard 1.
 Second i create a new variable called profits, which adds the amounts of each deal, to compare it by country, plan and channel. This is the dashboard 2.
-Finnaly, to evaluate the effectiveness of the deals, create a last variable that counts those deals that are closed, then compare it by country, plan and channel. This is the dashboard 3.
+Finnaly, to evaluate the effectiveness of the deals, i create a last variable that counts those deals that are closed, then compare it by country, plan and channel. This is the dashboard 3.
 
 
