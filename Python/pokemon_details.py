@@ -3,13 +3,13 @@ import csv
 from tenacity import retry 
 
 """
-First i make a first scraping to take all the names of the pokemon from the API.
-Second i create the csv file 
-and then with the python method dictwriter i write the information.
-Finally i iterate the names taken in the first scraping
+First I make a first scraping to take all the names of the pokemon from the API.
+Second I create the csv file 
+and then with the python method dictwriter I write the information.
+Finally I iterate the names taken in the first scraping
 and conect to the API with the specific url for each name. 
-With the scraping function i take the specific information that i need, 
-and with that i write the csv file. 
+With the scraping function I take the specific information that I need, 
+and with that I write the csv file. 
 
 
 I installed the tenacity module to use the retry function,
