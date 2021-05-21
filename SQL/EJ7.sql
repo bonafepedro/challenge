@@ -17,11 +17,11 @@ ORDER BY count(*) DESC
 LIMIT 3;
 
 
-@result
+--Result
 
-     title      | count 
-----------------+-------
- Network Peak   |     4
- Sleuth Orient  |     4
- Voyage Legally |     4
+--     title      | count 
+------------------+-------
+-- Network Peak   |     4
+-- Sleuth Orient  |     4
+-- Voyage Legally |     4
 

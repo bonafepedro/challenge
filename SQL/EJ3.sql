@@ -12,3 +12,10 @@ GROUP BY
 	full_name
 ORDER BY SUM(amount) DESC
 LIMIT 1;
+
+--        Results
+-- full_name  |   sum   
+--------------+---------
+--Susan Davis | 3193.49
+-- (1 fila)
+

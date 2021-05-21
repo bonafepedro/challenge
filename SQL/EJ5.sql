@@ -33,4 +33,20 @@ ORDER BY revenues DESC;
 --If we use LEFT JOIN in line 27 we select all the countries and those that do not have earnings from the 10 most profitable movies have the earnings column empty
 --Usando INNER JOIN en la linea 27 limitamos los paises del listado a solo aquellos que poseen ganancias de las 10 películas mas rentables. Si en la linea 21 usamos LEFT JOIN se incluyen todos los paises y aquellos que no tienen ninguna ganancia que aparecen con la columna de ganancias vacía
 
+-- Results
+--      country       | revenues 
+----------------------+----------
+-- India              |  6069.75
+-- China              |  3176.17
+-- United States      |  3074.48
+-- Brazil             |  2532.19
+-- Mexico             |  2158.70
+-- Russian Federation |  2075.94
+-- Nigeria            |  1901.30
+-- Philippines        |  1460.90
+-- Japan              |  1434.82
+-- Turkey             |  1163.28
+
+--The program returns a list of all the countries with their revenues for the top 10 most popular movies in terms of
+--overall rentals for each one, as an example here are the first 10 results. 
 

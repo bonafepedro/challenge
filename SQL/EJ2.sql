@@ -9,3 +9,10 @@ GROUP BY
 ORDER BY SUM (rental_duration) DESC
 LIMIT 1;
 
+
+-- Results
+-- full_name  
+-------------
+-- Susan Davis
+-- (1 fila)
+
