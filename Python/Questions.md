@@ -1,5 +1,4 @@
-In the folder there are two files each is a python script.
-Here below are the characteristics requested by each one
+#In the folder there are two files each is a python script. Here below are the characteristics requested by each one
 
  -pokemon_list.py – This script should generate a “pokemons_list.csv” CSV file. This file
   should contain a list of all 1,118 Pokemons and include their name and their ID.
